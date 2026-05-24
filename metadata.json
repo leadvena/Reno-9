@@ -1,0 +1,6 @@
+{
+  "name": "Reno9 Construction",
+  "description": "Chicago's trusted renovation, remodeling & handyman service. Bathrooms, kitchens, drywall, flooring, painting. Call 773-782-7768 for a free estimate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
